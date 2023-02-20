@@ -1,11 +1,6 @@
 # Build ChatGPT App in Flutter using OpenAI API<br><br>
 
 
-* **Page Visitors: Added on 1/25/2023**<br><br>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=chatGPT_flutter_course.visitor-badge) 
-
-## This course is Fully available on [YouTube](https://www.youtube.com/playlist?list=PL333BSi_KSQ_AqZQR98tAjxcXYMmPyr8E) and [Udemy](https://www.udemy.com/course/draft/5103924/?referralCode=271157BBF67BFA21C9F4)
-
 **Important NOTE:** This course is not a data science course, this course is relying on the OpenAI API which is the App that created ChatGPT.<br><br>
 
 This course covers how to integrate the Rest API in a Flutter application.<br>
