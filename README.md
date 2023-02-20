@@ -1,7 +1,7 @@
 # Build ChatGPT App in Flutter using OpenAI API<br><br>
 
 
-**Important NOTE:** This course is not a data science course, this course is relying on the OpenAI API which is the App that created ChatGPT.<br><br>
+ # Generate Api key From Open Ai and paste in services api_constant.dart boom!!! see the magic.
 
 
 
