@@ -57,10 +57,4 @@ The course mostly focuses on the REST API integration in Flutter<br><br>
 
 
 
-[udemy]: https://www.udemy.com/user/hadi-kachmar-2/
-[youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
-[linkedin]: https://www.linkedin.com/in/hadi-kachmar-27a56a177/
-[github]: https://github.com/hadikachmar3
-[email]: mailto:flutterer.dev@gmail.com
-[facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
-[discord]: https://discord.gg/MhnKaY5qdK
+
